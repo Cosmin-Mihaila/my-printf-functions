@@ -1,1 +1,1 @@
-# my-printf-functions
+A function that simulates the printf function in C.
